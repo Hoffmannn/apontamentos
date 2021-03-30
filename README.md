@@ -17,9 +17,7 @@ Baixa e instala as dependências necessárias para rodar o projeto.
 ### `yarn start`
 
 Inicia a aplicação em modo de desenvolvimento.<br />
-Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.  
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.   
 
 ## Gerando build do projeto  
 
