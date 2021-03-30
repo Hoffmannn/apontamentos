@@ -1,0 +1,24 @@
+.nav {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  align-items: baseline !important;
+}
+
+.areaSair {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.botaoSair {
+  color: #fff !important;
+  margin: 0 15px !important;
+}
+
+@media (max-width: 600px) {
+  .areaSair > div {
+    display: none;
+  }
+}
