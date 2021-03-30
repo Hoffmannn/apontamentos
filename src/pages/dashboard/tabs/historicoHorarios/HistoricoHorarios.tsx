@@ -1,12 +1,7 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { format } from "date-fns";
-import {
-  DataGrid,
-  GridColDef,
-  GridColumns,
-  GridRowsProp,
-} from "@material-ui/data-grid";
+import { DataGrid, GridColumns, GridRowsProp } from "@material-ui/data-grid";
 import { Typography } from "@material-ui/core";
 import api from "../../../../services/api";
 import { AuthState } from "../../../../store/ducks/auth/types";
