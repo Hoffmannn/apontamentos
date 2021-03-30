@@ -8,7 +8,7 @@ Atenção: O back-end para o projeto está hospedado no Heroku, portanto pode de
 
 ## Como instalar
 
-No diretório do projeto, rode os seguitnes comandos:
+No diretório do projeto, rode os seguintes comandos:
 
 ### `yarn`
 
