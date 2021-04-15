@@ -1,6 +1,6 @@
 ## Apontamentos
 
-Projeto desenvolvido para o processo seletivo da Sólides Tecnologia 
+Projeto desenvolvido para praticar React, React Router e Redux.
 
 
 ### [Demonstração](https://apontamentos.netlify.app/)
