@@ -1,6 +1,6 @@
 ## Apontamentos
 
-Projeto desenvolvido para praticar React, React Router e Redux.
+Projeto desenvolvido para praticar React, React Router, Redux e TypeScript.
 
 
 ### [Demonstração](https://apontamentos.netlify.app/)
