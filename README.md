@@ -25,4 +25,6 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador
 
 Gera build para produção na pasta `build`. 
 
- 
+## Como utilizar
+
+Basta criar um usuário e logar no sistema. Aparecerão campos de horários para serem preenchidos pelo usuários, que ficarão salvos no Back-end (Strapi) e serão mostrados na tabela na aba Histórico.
